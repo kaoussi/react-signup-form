@@ -33,7 +33,7 @@ var Icon = React.createClass({
           </svg>
         )
 
-      case 'guthub': 
+      case 'github': 
         return (
           <svg viewBox="0 0 34 34">
           <path fill-rule="evenodd" clip-rule="evenodd" fill="#191717" d="M32.6,16.3c0,7.2-4.7,13.3-11.1,15.5c-0.8,0.2-1.1-0.3-1.1-0.8
